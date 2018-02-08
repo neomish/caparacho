@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Caparacho
+***
+Caparacho es una iniciativa del desarrollo de un componente electrónico que permita fácilitar el acceso del uso de arduino y placas de prototipado similares a quienes estén interesados en la microrobótica y les es complicado acceder a ciertos recursos académicos u materiales para implementarlo.
 
-You can use the [editor on GitHub](https://github.com/neomish/caparacho/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Existen muchos proyectos que potencian el desarrollo de herramientas de hardware avanzadopara placas de prototipado, que les permiten expandir sus funcionalidades, inclusoa niveles industriales, con Caparacho se busca hacer algo que permita iniciarse, conocer, y construir cosas que favorezcan el aprendizaje.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neomish/caparacho/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+En ocasiones las limitantes de recursos económicos provocan que no se tenga la oportunidad de probar y aprender, por lo que con Carapacho se podrá promover el reciclaje de componentes para la construcción de los elementos que lo conformen, de la misma manera el software desarrollado es libre, para que pueda ser utilizado por quien lo desee y lo haga crecer compartiéndolo con el mundo.
