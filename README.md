@@ -1,5 +1,4 @@
 # Caparacho
-***
 Caparacho es una iniciativa del desarrollo de un componente electrónico que permita fácilitar el acceso del uso de arduino y placas de prototipado similares a quienes estén interesados en la microrobótica y les es complicado acceder a ciertos recursos académicos u materiales para implementarlo.
 
 Existen muchos proyectos que potencian el desarrollo de herramientas de hardware avanzadopara placas de prototipado, que les permiten expandir sus funcionalidades, inclusoa niveles industriales, con Caparacho se busca hacer algo que permita iniciarse, conocer, y construir cosas que favorezcan el aprendizaje.
