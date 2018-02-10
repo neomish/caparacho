@@ -1,5 +1,7 @@
 # Caparacho
 
+![Ícono de Caparacho](./caparacho_icono.png)
+
 ## Caparacho para chunches ocurrentes
 
 Caparacho es una iniciativa del desarrollo de un componente electrónico que permita facilitar el acceso del uso de arduino y placas de prototipado similares a quienes estén interesados en la microrobótica y les es complicado acceder a ciertos recursos académicos u materiales para implementarlo.
