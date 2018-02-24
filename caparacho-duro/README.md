@@ -9,5 +9,5 @@ Para armar la interfaz de conexión principal se necesitan pocos componentes, el
 Caparacho se puede construir artesanalmente con los siguientes:
 
 * Conectores rj11 4p4c
-> ![Roseta rj11] (./imagenes/roseta_rj11.png)
-> Estos conectores se pueden encontrar de reciclaje por conexiones telefónicas en tiendas de electrónica o c
+  - ![Roseta rj11] (./imagenes/roseta_rj11.png)
+  - Estos conectores se pueden encontrar de reciclaje por conexiones telefónicas en casas, nuevos en tiendas de electrónica o comprados a través de internet.
