@@ -24,3 +24,5 @@ Caparacho se puede construir artesanalmente con los siguientes:
   > ![Cables conectores](./imagenes/cable_utp.png) Encontrar cables es algo mas común de reciclado, igual es barato conseguirlo nuevo, el cable del UTP para redes es comúnmente utilizado para montaje de circuitos en prototipos.
 * Cajas para baterías como fuente de 12V
   > ![Caja de baterías 4x1](./imagenes/caja_baterias_4x1.png) ![Caja de baterías 2x2](./imagenes/caja_baterias_2x2.png) Encontrarlas no es complicado, también podrían fabricarse artesanalmente, o comprarse, la idea es proveer una forma práctica de reunir 8 baterías AAA y que brinden un aproximado de 12 voltios de corriente directo.
+
+Para poder unir los componentes se requieren herramientas como cautiín, estaño, pasta y tal vez estructuras sólidas, para ello se brindará una opción de como puede ensamblarse con cartón o madera delgada.
