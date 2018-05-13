@@ -10,14 +10,14 @@ Existen muchos proyectos que potencian el desarrollo de herramientas de hardware
 
 En ocasiones las limitantes de recursos económicos provocan que no se tenga la oportunidad de probar y aprender, por lo que con Caparacho se podrá promover el reciclaje de componentes para la construcción de los elementos que lo conformen, de la misma manera el software desarrollado es libre, para que pueda ser utilizado por quien lo desee y lo haga crecer compartiéndolo con el mundo.
 
-## [Caparacho duro](./caparcho-duro)
+## [Caparacho duro](https://github.com/neomish/caparacho/tree/master/caparacho-duro)
 
 El componente principal que permitirá la comunicación con todos sus periféricos será como un escudo (shield) artesanal, que puede llegar a construirse con elementos de reciclaje o con elementos nuevos, se dispondrán diseños y tutoriales del armado del componente principal y sus periféricos.
 
-## [Caparacho blando](./caparacho-blando)
+## [Caparacho blando](https://github.com/neomish/caparacho/tree/master/caparacho-blando)
 
 Para facilitar la interacción y programación cómoda del Caparacho, debe existir un software que permita programarlo de manera sencilla. Permitiendo traducir con instrucciones muy sencillas entendibles por el usuario al lenguaje que ocupe el controlador para el que el Carapacho se haya construido.
 
-## [Cuchumbitos](./cuchumbitos)
+## [Cuchumbitos](https://github.com/neomish/caparacho/tree/master/cuchumbitos)
 
 Los periféricos creados para Caparacho serán pequeños elementos conectables al escudo artesanal siguiendo los esquemas de cableado definido para el mismo, permitiendo que puedan ser ensamblados en contenedores de partes reciclaje preferiblemente.
