@@ -6,7 +6,7 @@ Para armar la interfaz de conexión principal se necesitan pocos componentes, el
 
 ![Circuito de Escudo Caparacho](./imagenes/Caparacho_bb.png)
 
-Caparacho se puede construir artesanalmente con los siguientes:
+Caparacho se puede construir artesanalmente con los elementos siguientes:
 
 * Conectores rj11 4p4c
   > ![Roseta rj11](./imagenes/roseta_rj11.png) ![Jack rj11](./imagenes/jack_rj11_4p6c.png) Estos conectores se pueden encontrar de reciclaje por conexiones telefónicas en casas, nuevos en tiendas de electrónica o comprados a través de internet.
